@@ -1,2 +1,3 @@
 this is the chapter 2
 this is a new line in chapter 2
+this is a new line of code
